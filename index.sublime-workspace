@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"els",
+				"else"
+			],
+			[
+				"ar",
+				"arq_csv"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"ob",
+				"objPHPExcel"
+			],
+			[
+				"na",
+				"name_arq"
+			],
+			[
+				"n",
+				"nome_arq"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/projeto/processo.php",
+		"/C/xampp/htdocs/projeto/index.php",
+		"/C/xampp/htdocs/projeto/Classes/PHPExcel/Shared/String.php",
+		"/C/xampp/htdocs/projeto/conexao.php",
+		"/C/Users/Wagner/AppData/Local/Temp/Rar$DIa0.496/PHPExcel.php",
+		"/C/xampp/htdocs/projeto/Classes/PHPExcel.php",
+		"/C/Users/Wagner/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Wagner/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/C/xampp/htdocs/projeto/Classes/PHPExcel/Calculation/TextData.php",
+		"/C/Users/Wagner/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/projeto/arquivo.php",
+		"/C/Users/Wagner/Desktop/Curso_HTML5/Exercise Files/Unidade_02/02_01/blog.htm",
+		"/C/Program Files (x86)/Illustrate/dBpowerAMP/Help/dMC/dMC/help.htm",
+		"/C/Users/Wagner/Desktop/Curso_HTML5/Exercise Files/Unidade_02/02_01/trails.htm",
+		"/C/Users/Wagner/Desktop/teste.html",
+		"/C/Users/Wagner/index.php",
+		"//192.168.100.110/dados/CIDADE2000/ITENSMGV.BAK",
+		"/C/Users/Wagner/Videos/teste/Nova pasta/Nova pasta/Porno Gratis 18 Anos.htm",
+		"/C/Users/Wagner/Desktop/aulahtml5.html",
+		"/C/Users/Wagner/Desktop/Curso_HTML5/Exercise Files/01 - O DESAFIO DO MUNDO PÓS-MODERNO - Revista do Aluno - Material por Série.htm",
+		"/C/Users/Wagner/Downloads/progrma_servidor_web_2016/atividade_estruturada/web/cliente/css/cliente.css",
+		"/C/Users/Wagner/AppData/Local/Temp/Rar$DIa0.756/cliente.css",
+		"/C/Users/Wagner/Downloads/engenharia_usabilidade/Sexy Cross._files/fotorama.css",
+		"/C/Users/Wagner/Downloads/engenharia_usabilidade/Sexy Cross._files/all.css",
+		"/C/Users/Wagner/Desktop/Curso_HTML5/Exercise Files/Unidade_02/02_01/contato.html",
+		"/C/Users/Wagner/Desktop/Curso_HTML5/Exercise Files/Unidade_02/02_01/promocoes.html",
+		"/C/Users/Wagner/Desktop/Curso_HTML5/Exercise Files/Unidade_02/02_01/novidades.html",
+		"/C/Users/Wagner/Desktop/Curso_HTML5/Exercise Files/Unidade_02/02_01/_css/main.css",
+		"/C/Users/Wagner/Desktop/Curso_HTML5/Exercise Files/Unidade_02/02_01/carpe_diem.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PHPExcel_",
+			"PHPExcel_Reader",
+			"adCop",
+			"hover",
+			"Chocolicias"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ASCIICODE"
+			]
+		],
+		"width": 488.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

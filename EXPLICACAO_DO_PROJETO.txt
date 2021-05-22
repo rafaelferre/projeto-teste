@@ -1,0 +1,9 @@
+INFORMATIVO SOBRE SITUAÇÃO DO PROJETO
+
+primeiramente informando que meu plano para conclusão do mesmo era deixá-lo todo funcional,
+com todas as exigências solicitadas atendidas; por isso não foquei tanto no front-end e organização em geral.
+  Vamos lá, concluir o formularaio que recebe os dados o email e arquivo, tirei o arquivo do local temporário e 
+criei uma pasta e coloquei o mesmo lá, criei o banco as tabelas e fiz  conexõ com o mesmo. 
+E travei na conversão do arquivo de 'xlsx' para 'csv', como não conseguir realizar a converão, não conseguir 
+concluir as demais coisas que ainda faltava, como enviar o email e disponibilizar o arquivo para download, e gerar
+os Logs.
